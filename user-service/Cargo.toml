@@ -1,0 +1,10 @@
+[package]
+name = "user-service"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+axum = { workspace = true }
+common = { workspace = true }
+shuttle-axum = { workspace = true }
+shuttle-runtime = { workspace = true }
