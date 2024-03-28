@@ -1,0 +1,1 @@
+`cargo watch -cqx "shuttle run"`
